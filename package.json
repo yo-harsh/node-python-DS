@@ -1,0 +1,19 @@
+{
+  "name": "python-ds",
+  "version": "1.0.0",
+  "description": "node-python-DS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yo-harsh/node-python-DS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yo-harsh/node-python-DS/issues"
+  },
+  "homepage": "https://github.com/yo-harsh/node-python-DS#readme"
+}
