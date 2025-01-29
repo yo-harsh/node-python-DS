@@ -17,7 +17,7 @@ def main():
         raise ValueError('Give a proper dataframe')
 
     if isinstance(df, pd.DataFrame):
-        return {'data_shape':df.shape}
+        return {'data_shape':df.shape, 'var': var1}
     else:
         raise ValueError('Not a dataframe')
 
